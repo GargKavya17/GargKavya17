@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mayank%20Kumar&fontSize=90" alt="Header Banner" />
+</p>
+
 # Hi there, I'm Kavya Garg! 👋
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Cybersecurity+Enthusiast"
-      alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +26,7 @@ class Developer:
 
     def current_focus(self):
         return {
-            "learning": ["Cybersecurity", "", "ML/AI"],
+            "learning": ["Cybersecurity", "Data Science", "ML/AI"],
             "building": "Scalable Applications",
             "passion": "Clean Code & Architecture"
         }
