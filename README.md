@@ -6,23 +6,33 @@
   </a>
 </p>
 
-### 💫 About Me:
-- 🔭 I’m currently a B.Tech Computer Science Engineering student.
-- 📚 Learning more about Data Science, Cloud Security, and Systems.
-- ⚡ Fun fact: I love analyzing complex data and building logical solutions.
+<h3 align="center">👩‍💻 About Me 👩‍💻</h3>
 
----
+<table align="center" width="100%">
+  <tr>
+    <!-- Left Column: Code Block -->
+    <td width="60%" valign="top">
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-</p>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kavya Garg"
+        self.role = "Computer Science Engineer"
+        self.location = "UPES, Dehradun"
 
+    def current_focus(self):
+        return {
+            "learning": ["Cybersecurity", "Cloud Architecture", "Data Science"],
+            "building": ["Defensive Systems", "Analytical Tools"],
+            "passion": ["Sports Analytics", "Automation & Logic"]
+        }
+
+    def lifestyle(self):
+        return [
+            "🥎 Sports Lover ",
+            "📊 Data & Strategy Analysis",
+            "🖥️ Building & Protecting Systems"
+        ]
 ---
 
 ### 🛠️ Tech Stack & Skills:
@@ -59,4 +69,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GargKavya17&layout=compact&theme=radical" alt="GargKavya17's Top Langs" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
 </p>
