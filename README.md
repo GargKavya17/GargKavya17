@@ -35,20 +35,62 @@ class Developer:
             "🖥️ Tech Explorer"
         ]
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kavya_garg_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavya-garg-866049310) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OGSkullDude) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7w1bnRQZvJETKOCZknTWEw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Gargkavya931@gmail.com) 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile - Kavya Garg</title>
+</head>
+<body>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GargKavya17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=GargKavya17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GargKavya17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <h2>🌐 Socials:</h2>
+    <p>
+        <a href="https://instagram.com/_kavya_garg_17" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://linkedin.com/in/kavya-garg-866049310" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://x.com/@OGSkullDude" target="_blank">
+            <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+        </a>
+        <a href="https://youtube.com/@UC7w1bnRQZvJETKOCZknTWEw" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+        </a>
+        <a href="mailto:Gargkavya931@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+        </a>
+    </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GargKavya17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+    <h1>💻 Tech Stack:</h1>
+    <p>
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    </p>
 
----
-[![](https://komarev.com/ghpvc/?username=GargKavya17&icon=0&color=0)](https://visitcount.itsvg.in)
+    <h1>📊 GitHub Stats:</h1>
+    <p>
+        <img src="https://github-readme-stats.shion.dev/api?username=GargKavya17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
+        <img src="https://streak-stats.demolab.com/?user=GargKavya17&theme=dark&hide_border=false" alt="GitHub Streak"><br>
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GargKavya17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    <h2>🏆 GitHub Trophies</h2>
+    <p>
+        <img src="https://github-profile-trophy.vercel.app/?username=GargKavya17&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    </p>
+
+    <hr>
+
+    <p>
+        <a href="https://visitcount.itsvg.in" target="_blank">
+            <img src="https://komarev.com/ghpvc/?username=GargKavya17&icon=0&color=0" alt="Visitor Count">
+        </a>
+    </p>
+
+    </body>
+</html>
