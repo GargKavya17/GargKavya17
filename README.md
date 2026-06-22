@@ -115,13 +115,6 @@ class Developer:
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="assets/gifs/divider.gif" width="100%">
-</div>
-
 <br/>
 
 <h2 align="center">
@@ -129,6 +122,7 @@ class Developer:
   &nbsp; 
 
 <h2 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
   <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
 </h2>
