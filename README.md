@@ -127,11 +127,6 @@ class Developer:
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="30" style="vertical-align:middle"/>
   &nbsp; 
-<br/>
-
-<div align="center">
-  <img src="assets/gifs/divider.gif" width="100%">
-</div>
 
 <h2 align="center">
   <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
