@@ -71,10 +71,10 @@ class Developer:
 
     def lifestyle(self):
         return [
-             "📊 Cricket Strategy Analytics",
+            "📊 Cricket Strategy Analytics",
             "🛍️ Shopify E-commerce Hustle",
             "🍔 Passionate Street Foodie",
-            "🎬 Cinematic Movie Buf
+            "🎬 Cinematic Movie Buff"
         ]
 ```
 
@@ -133,11 +133,8 @@ class Developer:
   <img src="assets/gifs/divider.gif" width="100%">
 </div>
 
-<br/>
-
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
-  &nbsp; <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
+  <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
 </h2>
 <br/>
