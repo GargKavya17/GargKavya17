@@ -1,19 +1,60 @@
-# Hi there, I'm Kavya Garg! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22D3EE&height=125&section=header&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Sports+Analysis" alt="Typing SVG" />
+<div align="center">
+  <img src="assets/gifs/banner.jpg" alt="Description" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(56, 189, 248, 0.5);"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Cyber+Security+Enthuiast;Problem+Solver;&font=Fira%20Code&center=true&width=500&height=50&color=38BDF8&vCenter=true&size=24&pause=1000&duration=3000&background=00000000">
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kavya1712/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  &nbsp;
+  <a href="mailto:Gargkavya931@gmail.com.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-FB923C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GargKavya17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-<h3 align="center">🐼 About Me 🐼</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GargKavya17&label=Profile%20Views&color=38BDF8&style=for-the-badge">
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/GargKavya17?label=Followers&style=for-the-badge&color=22D3EE&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/GargKavya17?label=Stars&style=for-the-badge&color=60A5FA&logo=github" />
+</div>
 
-<table align="center" width="100%">
+<br/>
+
+<div align="center">
+  <img src="assets/gifs/divider.gif"width="100%">
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="assets/gifs/a.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">About Me</span> &nbsp;
+  <img src="assets/gifs/a.gif" height="30" style="vertical-align:middle"/>
+</h2>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="90%">
   <tr>
-    <!-- Left Column: Code Block -->
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 ```python
 class Developer:
@@ -31,8 +72,131 @@ class Developer:
 
     def lifestyle(self):
         return [
-            "📊 Cricket Strategy Analytics",
+             "📊 Cricket Strategy Analytics",
             "🛍️ Shopify E-commerce Hustle",
             "🍔 Passionate Street Foodie",
-            "🎬 Cinematic Movie Buff"
+            "🎬 Cinematic Movie Buf
         ]
+```
+
+</td>
+    <td width="45%" valign="middle" align="center">
+      <img src="assets/gifs/about.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="assets/gifs/divider.gif" width="100%">
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="assets/gifs/b.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">Tech Stack & Arsenal</span> &nbsp;
+  <img src="assets/gifs/b.gif" height="30" style="vertical-align:middle"/>
+</h2>
+
+<br/>
+
+<p align="center">
+  <!-- Languages -->
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <!-- Frontend -->
+  <br/>
+  <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <!-- Backend -->
+  <br/>
+  <!-- Tools/AI -->
+  <br/>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="assets/gifs/divider.gif" width="100%">
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">Problem Solving & DSA</span> &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="30" style="vertical-align:middle"/>
+</h2>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="55%">
+        <a href="https://leetcode.com/u/7BgYlrFEmM/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/Mayank-2007?theme=nord&font=Fira_Code&ext=heatmap&cache=0" alt="LeetCode Stats" width="400"/>
+        </a>
+      </td>
+      
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/gifs/divider.gif" width="100%">
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/GitHub-Performance-38BDF8?style=flat&logo=github" />
+</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mayank-kumar-27&theme=tokyonight&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+  <img src="assets/gifs/divider.gif" width="100%">
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
+  &nbsp; <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
+</h2>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:Gargkavya931@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kavya1712/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://mayank-kumar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2496ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/GargKavya17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
