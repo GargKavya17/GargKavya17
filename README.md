@@ -132,19 +132,6 @@ class Developer:
 
 <br/>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="55%">
-        <a href="https://leetcode.com/u/Kavya-Garg-2006/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Kavya Garg?theme=nord&font=Fira_Code&ext=heatmap&cache=0" alt="LeetCode Stats" width="400"/>
-        </a>
-      </td>
-      
-    </tr>
-  </table>
-</div>
-
 <br/>
 
 <div align="center">
