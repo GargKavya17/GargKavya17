@@ -116,11 +116,6 @@ class Developer:
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 </p>
 <br/>
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="30" style="vertical-align:middle"/>
-  &nbsp; 
-
 <h2 align="center">
     <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" style="vertical-align:middle"/>
   <span style="color: #38BDF8;">Lets Connect</span> &nbsp;
