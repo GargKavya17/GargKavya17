@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22D3EE&height=125&section=header&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -108,7 +107,6 @@ class Developer:
   <!-- Frontend -->
   <br/>
   <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <!-- Backend -->
   <br/>
   <!-- Tools/AI -->
@@ -138,8 +136,8 @@ class Developer:
   <table border="0">
     <tr>
       <td align="center" width="55%">
-        <a href="https://leetcode.com/u/7BgYlrFEmM/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Mayank-2007?theme=nord&font=Fira_Code&ext=heatmap&cache=0" alt="LeetCode Stats" width="400"/>
+        <a href="https://leetcode.com/u/Kavya-Garg-2006/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/Kavya Garg?theme=nord&font=Fira_Code&ext=heatmap&cache=0" alt="LeetCode Stats" width="400"/>
         </a>
       </td>
       
@@ -162,7 +160,7 @@ class Developer:
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayank-kumar-27&theme=tokyonight&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=GargKavya17&theme=tokyonight&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -190,10 +188,6 @@ class Developer:
   &nbsp;
   <a href="https://www.linkedin.com/in/kavya1712/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://mayank-kumar-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2496ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://github.com/GargKavya17" target="_blank">
